@@ -1,14 +1,19 @@
-# 👋 Hola, soy Hugo
+# Hello! I´m Hugo
 
-🎓 Estudiante de Ingeniería en Ciencias Computacionales en CETYS  
-💻 Apasionado por C++, Python, Swift y desarrollo en la nube con AWS  
-⚡ Me interesa: Desarrollo móvil, hacer ejercicio y aprender 
-🏋️‍♂️ En mi tiempo libre: voy al gym, analizo deportes. 
+Computer Science Engineering student at CETYS. QA Automation and Manual Testing specialist with experience in mobile and cloud technologies.
 
----
+## Technologies
 
-## 🚀 Tecnologías que uso
-- **Lenguajes:** C++, Python, Java, Swift
-- **Herramientas:** Podman, Docker, VSCode, Xcode
-- **Cloud:** AWS (IAM, SAM, DynamoDB)
-- **Web:** WordPress, Divi, WPBakery
+**Languages:** C++, Python, Java, Swift
+
+**Testing:** Java, Python, Appium, Fastlane
+
+**Tools:** Podman, Docker, VSCode, Xcode
+
+**Cloud:** AWS (IAM, SAM, DynamoDB)
+
+**Web:** WordPress, Divi, WPBakery
+
+## Interests
+
+Mobile development, QA automation, cloud computing, strength training, and sports analysis.
